@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1> Guilherme Ribeiro Alves de Melo e Raphael Gonçalves de Mundo </h1>
+
+    <img src="Imagens/fotopizza.jpg">
 </body>
 </html>
